@@ -31,3 +31,20 @@ You are managing an agile project using Kanban method. The project is on progres
 I will add the task immediately to the Kanban board. Contrary to scrum, you can change/add tasks even when the iterations have begun. Kanban do not use the concept of sprint backlog. So, you can re-order tasks priority and choose what to perform next at any stage.  
 
 ---
+
+# Q3: How would you approximately estimate project schedule in Kanban?
+**Difficulty:** `Senior`  
+
+**Source:**  
+https://kanbanize.com/blog/project-forecasting/   
+https://www.quora.com/How-do-you-estimate-schedules-release-dates-using-the-Kanban-project-management-workflow   
+https://chisellabs.com/blog/how-to-estimate-in-kanban-agile-kanban-metrics/   
+
+**Details:**  
+You are responsible for managing a project using Kanban method. Your customer understand that you cannot predict exact delivery dates in agile projects, however they ask you to provide an estimate on when the project will be completed. 
+What would be your best course of action to address their question?    
+
+**Answer:**  
+First of all, it is important to know some Kanban metrices like Throughput which is: the number of cards delivered within a specific time period. 
+So, assuming that for a specific release we have a total of 50 tasks in backlog. And we have throughput of 5 cards per week. We can estimate that we need 10 weeks to complete this release.    
+
